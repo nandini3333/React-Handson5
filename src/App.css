@@ -1,0 +1,18 @@
+body{
+  background-color: rgb(222, 185, 185);
+  text-align: center;
+}
+
+label{
+  font-size: 1.3em;
+   font-weight: 500;
+
+}
+input {
+   width: 400px;
+   height: 45px;
+   margin: 3em 0.5em;
+   background-color: rgb(209, 209, 187);
+   border-radius: 10px;
+   
+}
